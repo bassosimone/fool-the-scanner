@@ -1,0 +1,25 @@
+{
+  "name": "fool-the-scanner",
+  "version": "0.0.1",
+  "description": "Receives emails sent from Nexa Center's scanner",
+  "main": "index.js",
+  "dependencies": {
+    "smtp-server": "^1.9.0",
+    "uuid": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bassosimone/fool-the-scanner.git"
+  },
+  "author": "Simone Basso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bassosimone/fool-the-scanner/issues"
+  },
+  "homepage": "https://github.com/bassosimone/fool-the-scanner#readme"
+}
